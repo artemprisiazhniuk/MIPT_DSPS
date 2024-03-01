@@ -1,12 +1,15 @@
 # Data Storage and Processing Systems [MIPT]
 
-Technologies used: PostgreSQ, psycopg2
+Technologies used: PostgreSQ, psycopg2, MongoDB, pymongo
 
 ## Homework 1
-- Creating and updating tables
+- PostgreSQL: Creating and updating tables
 
 ## Homework 2
-- Simple filtering
+- PostgreSQL: Simple filtering
 
 ## Homework 3
-- Group filtering and window functions
+- PostgreSQL: Group filtering and window functions
+
+## Homework 4
+- MongoDB: CRUD operations, filtering, pipelines
